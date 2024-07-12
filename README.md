@@ -12,6 +12,8 @@ It just a MAP integration  -
 Some points to remember -
 1 First we need to get the access token (Very Imp) otherwise map will not work 
 
+<img src="https://github.com/user-attachments/assets/cece850d-c7de-4915-a71e-6f70ce40d7e1" width=50% height=50%>
+
 ![image](https://github.com/user-attachments/assets/cece850d-c7de-4915-a71e-6f70ce40d7e1)
 
 After that token you can implement according to the MainActivity2
