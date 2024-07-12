@@ -22,4 +22,4 @@ So we need some logic so that it hit automatically
 @Debashish Kundu helped me on this OLA MAP Integration Speacial Thanks to him 
 
 
-<img src="https://github.com/user-attachments/assets/3711a2c4-36fe-46da-8519-1de8ea84e4aa" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/3711a2c4-36fe-46da-8519-1de8ea84e4aa" width=50% height=60%>
